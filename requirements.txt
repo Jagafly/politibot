@@ -1,7 +1,0 @@
-# PolitiBot krav
-yfinance>=0.2.40
-requests>=2.31.0
-alpaca-py>=0.20.0   # Kun for live trading
-
-# Valgfritt
-python-dotenv>=1.0.0
